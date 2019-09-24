@@ -1,2 +1,69 @@
-# Data_Science_Notes
+# Data Science Notes
 Notes related to Python, Machine Learning, and general data analysis
+
+---
+
+## To Do List
+- Machine Learning
+    - [ ] Neural Networks
+        - Fill-in
+    - [ ] Regression
+        - [ ] Linear Regression
+        - [ ] Logistic Regression
+    - [ ] Tree Based Methods
+        - [ ] Decision Trees
+        - [ ] Random Forest
+        - [ ] XGBoost
+    - [ ] Bayesian
+        - [ ] Naive Bayes
+    - [ ] Instance-based Learning
+        - [ ] KNN
+    - [ ] Unsupervised Learning
+        - [ ] Clustering
+        - [ ] Dimensionality Reduction
+        - [ ] NLP (Special Topic)
+    - [ ] Regularization
+        - [ ] Ridge
+        - [ ] LASSO
+        - [ ] Elastic Net
+    - [ ] Analytical Methods
+        - [ ] K Folds
+        - [ ] Class Imbalance
+- Python
+    - [ ] Core Python
+        - [ ] Basic Samples
+        - [ ] Collections Library
+    - [ ] Analytics Libraries
+        - [ ] Numpy 
+        - [ ] Pandas
+    - [ ] Visualization
+        - [ ] MatPlotLib
+        - [ ] Seaborn
+        - [ ] Bokah
+    - [ ] Additional Libraries
+        - [ ] Flask
+        - [ ] OpenCV
+        - [ ] Librosa
+        - [ ] FuzzyWuzzy
+- Database Management
+    - [ ] Query Languages
+        - [ ] SQL
+        - [ ] MongoDB
+        - [ ] Hadoop
+        - [ ] Spark
+    - [ ] Cloud Computing
+        - [ ] AWS
+        - [ ] Google Cloud
+- Statistics
+    - [ ] Basics
+    - [ ] Distributions
+    - [ ] P Values
+    - [ ] Bayesian Statistics
+- Probability
+    - fill-in
+- Additional Resources
+    - [ ] Git and GitHub
+    - [ ] Linux
+    - [ ] Markdown
+    - [ ] Javascript
+    - [ ] Tableau
