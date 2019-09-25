@@ -7,32 +7,36 @@ Notes related to Python, Machine Learning, and general data analysis
 - Machine Learning
     - [ ] Neural Networks
         - Fill-in
-    - [ ] Regression
-        - [ ] Linear Regression
-        - [ ] Logistic Regression
-    - [ ] Tree Based Methods
-        - [ ] Decision Trees
-        - [ ] Random Forest
-        - [ ] XGBoost
-    - [ ] Bayesian
-        - [ ] Naive Bayes
-    - [ ] Instance-based Learning
-        - [ ] KNN
+    - [ ] Supervised Learning
+        - [ ] Regression
+            - [ ] Linear Regression
+            - [ ] Logistic Regression
+        - [ ] Tree Based Methods
+            - [ ] Decision Trees
+            - [ ] Random Forest
+            - [ ] XGBoost
+        - [ ] Bayesian
+            - [ ] Naive Bayes
+        - [ ] Instance-based Learning
+            - [ ] KNN
+        - [ ] Regularization
+            - [ ] Ridge
+            - [ ] LASSO
+            - [ ] Elastic Net
+        - [ ] Analytical Methods
+            - [ ] K Folds
+            - [ ] Class Imbalance
+            - [ ] Time Series Analysis
     - [ ] Unsupervised Learning
         - [ ] Clustering
         - [ ] Dimensionality Reduction
         - [ ] NLP (Special Topic)
-    - [ ] Regularization
-        - [ ] Ridge
-        - [ ] LASSO
-        - [ ] Elastic Net
-    - [ ] Analytical Methods
-        - [ ] K Folds
-        - [ ] Class Imbalance
 - Python
     - [ ] Core Python
         - [ ] Basic Samples
         - [ ] Collections Library
+        - [ ] Regex
+        - [ ] Recursive Functions
     - [ ] Analytics Libraries
         - [ ] Numpy 
         - [ ] Pandas
@@ -42,6 +46,9 @@ Notes related to Python, Machine Learning, and general data analysis
         - [ ] Bokah
     - [ ] Additional Libraries
         - [ ] Flask
+        - [ ] Pickle
+        - [ ] BeautifulSoup
+        - [ ] Selenium
         - [ ] OpenCV
         - [ ] Librosa
         - [ ] FuzzyWuzzy
@@ -64,6 +71,8 @@ Notes related to Python, Machine Learning, and general data analysis
 - Additional Resources
     - [ ] Git and GitHub
     - [ ] Linux
+    - [ ] VSCode
+    - [ ] Jupyter Notebook
     - [ ] Markdown
     - [ ] Javascript
     - [ ] Tableau
