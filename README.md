@@ -34,12 +34,12 @@ Notes related to Python, Machine Learning, and general data analysis
 - Python
     - [ ] Core Python
         - [x] Basic Python
-        - [o] Datetime
-        - [o] Regex
-        - [o] Recursive Functions
+        - [ ] Datetime
+        - [ ] Regex
+        - [ ] Recursive Functions
         - [ ] Collections Library
     - [ ] Analytics Libraries
-        - [o] Numpy 
+        - [ ] Numpy 
         - [ ] Pandas
     - [ ] Visualization
         - [ ] MatPlotLib
