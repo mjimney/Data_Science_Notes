@@ -6,7 +6,7 @@ Notes related to Python, Machine Learning, and general data analysis
 ## To Do List
 - Machine Learning
     - [ ] Neural Networks
-        - Fill-in
+        - [ ] (Fill-in)
     - [ ] Supervised Learning
         - [ ] Regression
             - [ ] Linear Regression
@@ -33,10 +33,11 @@ Notes related to Python, Machine Learning, and general data analysis
         - [ ] NLP (Special Topic)
 - Python
     - [ ] Core Python
-        - [ ] Basic Samples
-        - [ ] Collections Library
+        - [x] Basic Python
+        - [ ] Datetime
         - [ ] Regex
         - [ ] Recursive Functions
+        - [ ] Collections Library
     - [ ] Analytics Libraries
         - [ ] Numpy 
         - [ ] Pandas
@@ -44,6 +45,7 @@ Notes related to Python, Machine Learning, and general data analysis
         - [ ] MatPlotLib
         - [ ] Seaborn
         - [ ] Bokah
+        - [ ] D3
     - [ ] Additional Libraries
         - [ ] Flask
         - [ ] Pickle
@@ -76,3 +78,5 @@ Notes related to Python, Machine Learning, and general data analysis
     - [ ] Markdown
     - [ ] Javascript
     - [ ] Tableau
+
+
