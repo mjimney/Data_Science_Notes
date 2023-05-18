@@ -1,9 +1,9 @@
-Markdown Sample  
-Updated:  9/26
+Markdown Sample
 
 **######## Key Link ########**  
 [Core Markdown Guide ](https://www.markdownguide.org/basic-syntax/)  
-[GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/)
+[GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/)  
+[VSCode Guide to Markdown](https://code.visualstudio.com/docs/languages/markdown)
 
 **######## Headers ########**
 

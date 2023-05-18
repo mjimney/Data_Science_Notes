@@ -78,5 +78,6 @@ Notes related to Python, Machine Learning, and general data analysis
     - [ ] Markdown
     - [ ] Javascript
     - [ ] Tableau
+    - [ ] Flask
 
 
